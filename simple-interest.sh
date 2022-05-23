@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Bene-20
+# Bene-2020
 
 # Input:
 # p, principal amount
